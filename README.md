@@ -1,8 +1,6 @@
 # WikiScrape
 
-This Scrapper goes to wikipedia which has a list of US cities by population from which the scrapper picks the top 10 cities
-by population and extracts data. After that the scrapper goes to their individual pages and collects a breakdown of data of 
-different ethnic groups living in those cities. This csv file can be uploaded to a BigQuery Google Data Ananlytics tool to do Data Analysis on the top 10 cities in the US.
+This Scraper goes to Wikipedia which has a list of US cities by population from which the scrapper picks the top 10 cities by population and extracts data. After that, the scraper goes to their individual pages and collects a breakdown of data of different ethnic groups living in those cities. This CSV file can be uploaded to a BigQuery Google Data Analytics tool to do Data Analysis on the top 10 cities in the US.
 
 ## Getting Started
 
