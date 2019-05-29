@@ -13,25 +13,27 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 Libraries imported: Requests, BeautifulSoup and csv
+```
 Requests: Requests is an Apache2 Licensed HTTP library which allows humans to automatically add query strings to URLS.
-Beautiful Soup: Beautiful Soup is a Python package for parsing HTML and XML documents.
-It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
+```
+
+```
+Beautiful Soup: Beautiful Soup is a Python package for parsing HTML and XML documents. It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
+
+```
+
 Csv: CSV (Comma Separated Values) is a simple file format used to store tabular data, such as a spreadsheet or database
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Installing BeautifulSoup4 and Requests using Python 3 commandline
 
 ```
-Give the example
+pip3 install bs4 
 ```
 
-And repeat
-
 ```
-until finished
+pip3 install requests 
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
