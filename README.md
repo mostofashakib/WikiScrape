@@ -47,6 +47,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Requests](https://2.python-requests.org/en/master/)
+* [Python3](https://www.python.org/downloads/)
 
 ## Authors
 
