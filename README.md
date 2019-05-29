@@ -14,11 +14,14 @@ What things you need to install the software and how to install them
 
 Libraries imported: Requests, BeautifulSoup and csv
 ```
-Requests: Requests is an Apache2 Licensed HTTP library which allows humans to automatically add query strings to URLS.
+Requests: Requests is an Apache2 Licensed HTTP library which allows
+humans to automatically add query strings to URLS.
 ```
 
 ```
-Beautiful Soup: Beautiful Soup is a Python package for parsing HTML and XML documents. It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping.
+Beautiful Soup: Beautiful Soup is a Python package for parsing HTML and XML documents.
+It creates a parse tree for parsed pages that can be used to extract data from HTML,
+which is useful for web scraping.
 
 ```
 
