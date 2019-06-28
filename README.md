@@ -28,7 +28,7 @@ Csv: CSV (Comma Separated Values) is a simple file format used to store tabular 
 
 ### Installing
 
-Installing BeautifulSoup4 and Requests using Python 3 commandline
+Installing BeautifulSoup4 and Requests using Python 3 commandline(pip)
 
 ```
 pip3 install bs4 
